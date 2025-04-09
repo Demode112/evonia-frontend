@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <div class="bg-red-400">homeview</div>
+  <div class="bg-red-400">
+    div
+  </div>
 </template>
