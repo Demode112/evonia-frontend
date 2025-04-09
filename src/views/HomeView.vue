@@ -3,6 +3,6 @@
 
 <template>
   <div class="bg-red-400">
-    div
+    test
   </div>
 </template>
